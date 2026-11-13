@@ -68,7 +68,7 @@ Configurar la cadena de conexión para que apunte al servidor SQL Server corresp
 Configurar los datos necesarios para el envío de correos electrónicos.
 Compilar el proyecto y ejecutarlo desde Visual Studio.
 
-▶️ Uso del sistema
+Uso del sistema
 
 Abrir Sistema Épico
 Ingresar el nombre de usuario y la contraseña
